@@ -1,8 +1,9 @@
 name: ApiUpdaterDP
 author: R7vmc
-version: 3.0.0
+version: 4.0.0
 main: ApiUpdater\Base
 api:
+    - 4.0.0
     - 3.0.0
     - 3.0.1
     - 3.0.2
