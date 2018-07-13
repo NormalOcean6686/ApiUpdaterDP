@@ -1,5 +1,5 @@
-name: ApiUpdaterDP
-author: R7vmc
+name: ApiUpdaterDP-Modified
+author: R7vmc, PopGoesTheNoobs
 version: 4.0.0
 main: ApiUpdater\Base
 api:
